@@ -1,9 +1,5 @@
 ### Hi there i'm Rimsha 👋
 
-<!--
-**RimshaSaleem/RimshaSaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 👨🏻‍💻 About Me
 
 - 🌉 Based out of the San Francisco Bay Area
@@ -12,20 +8,20 @@ Here are some ideas to get you started:
 - 🤝 Open for open-source project collaboration and other interesting opportunities
 - 💬 Ask me about my passion
 - 📫 How to reach me: ...
-- ⚡ Fun fact: I love tea more than coffee😜 -->
+- ⚡ Fun fact: I love tea more than coffee😜 
 
 🛠Tech Stack
 
-💻 Javascript | Python 
-🌐   HTML | CSS | ReactJS | Redux | Node.js | Express
-🎫   SQLite3 | PostgreSQL | Knex
-🔧   Git | Postman API | Github
+- 💻 Javascript | Python 
+- 🌐   HTML | CSS | ReactJS | Redux | Node.js | Express
+- 🎫   SQLite3 | PostgreSQL | Knex
+- 🔧   Git | Postman API | Github
 
 <img src="https://github-readme-stats.vercel.app/api?username=RimshaSaleem&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 📫 Connect with Me
 
-Reach out to me on LinkedIn https://www.linkedin.com/in/rimsha-saleem-384622215/ 👨🏻‍💻
--->
+- Reach out to me on LinkedIn https://www.linkedin.com/in/rimsha-saleem-384622215/ 👨🏻‍💻
+
 
 
