@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on React.Js
 - 🤝 Open for open-source project collaboration and other interesting opportunities
 - 💬 Ask me about my passion
-- 📫 How to reach me: ...
+- 📫 How to reach me: rimshatif8@gmail.com
 - ⚡ Fun fact: I love tea more than coffee😜 
 
 🛠Tech Stack
